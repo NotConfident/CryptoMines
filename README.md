@@ -1,1 +1,2 @@
 # CryptoMines
+A Web3 game focused on Play-to-Earn mechanics. These prototyped scripts retrieves the best "items" available for purchase and shares it on a Discord channel with a link to quickly purchase by crafting a transaction payload and sending it to the blockchain directly to interact with the marketplace contract without the need to provide user's public key. Granted this will be slower than an actual bot with a private key and funds.
